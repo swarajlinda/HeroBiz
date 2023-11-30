@@ -235,7 +235,7 @@ section {
 }
 
 .header .logo h1 span {
-  color: var(--color-primary);
+  color: #108279;
   font-weight: 500;
 }
 
@@ -243,7 +243,7 @@ section {
 .header .btn-getstarted:focus {
   font-size: 16px;
   color: var(--color-white);
-  background: var(--color-primary);
+  background: #108279;
   padding: 8px 23px;
   border-radius: 4px;
   transition: 0.3s;
@@ -336,7 +336,8 @@ section {
   .navbar .active,
   .navbar .active:focus,
   .navbar li:hover>a {
-    color: var(--color-primary);
+  color: #108279;
+
   }
 
   .navbar .dropdown a:hover:before,
@@ -574,7 +575,7 @@ section {
 }
 
 .hero-animated h2 span {
-  color: var(--color-primary);
+  color: #108279;
 }
 
 .hero-animated p {
@@ -615,7 +616,7 @@ section {
   border-radius: 4px;
   transition: 0.5s;
   color: var(--color-white);
-  background: var(--color-primary);
+  background: #108279;
   font-family: var(--font-secondary);
 }
 
@@ -633,7 +634,8 @@ section {
 }
 
 .hero-animated .btn-watch-video i {
-  color: var(--color-primary);
+color: #108279;
+
   font-size: 32px;
   transition: 0.3s;
   line-height: 0;
@@ -641,7 +643,8 @@ section {
 }
 
 .hero-animated .btn-watch-video:hover {
-  color: var(--color-primary);
+color: #108279;
+
 }
 
 .hero-animated .btn-watch-video:hover i {
@@ -738,7 +741,8 @@ section {
   border-radius: 5px;
   transition: 0.5s;
   animation: fadeInUp 1s both 0.6s;
-  color: var(--color-primary);
+color: #108279;
+
   border: 2px solid var(--color-primary);
 }
 
@@ -903,7 +907,8 @@ section {
 }
 
 .hero-fullscreen h2 span {
-  color: var(--color-primary);
+color: #108279;
+
 }
 
 .hero-fullscreen p {
@@ -939,7 +944,8 @@ section {
 }
 
 .hero-fullscreen .btn-watch-video i {
-  color: var(--color-primary);
+color: #108279;
+
   font-size: 32px;
   transition: 0.3s;
   line-height: 0;
@@ -947,7 +953,8 @@ section {
 }
 
 .hero-fullscreen .btn-watch-video:hover {
-  color: var(--color-primary);
+color: #108279;
+
 }
 
 .hero-fullscreen .btn-watch-video:hover i {
@@ -991,7 +998,8 @@ section {
 }
 
 .hero-static h2 span {
-  color: var(--color-primary);
+color: #108279;
+
 }
 
 .hero-static p {
@@ -1027,7 +1035,8 @@ section {
 }
 
 .hero-static .btn-watch-video i {
-  color: var(--color-primary);
+color: #108279;
+
   font-size: 32px;
   transition: 0.3s;
   line-height: 0;
@@ -1035,7 +1044,8 @@ section {
 }
 
 .hero-static .btn-watch-video:hover {
-  color: var(--color-primary);
+color: #108279;
+
 }
 
 .hero-static .btn-watch-video:hover i {
@@ -1073,7 +1083,8 @@ section {
 }
 
 .featured-services .service-item .icon i {
-  color: var(--color-primary);
+color: #108279;
+
   font-size: 36px;
   transition: 0.3s;
 }
@@ -1101,7 +1112,8 @@ section {
 }
 
 .featured-services .service-item:hover h4 a {
-  color: var(--color-primary);
+color: #108279;
+
 }
 
 /*--------------------------------------------------------------
@@ -1165,7 +1177,8 @@ section {
 }
 
 .about .nav-link.active {
-  color: var(--color-primary);
+color: #108279;
+
   background: none;
   border-bottom: 3px solid var(--color-primary);
 }
@@ -1187,7 +1200,8 @@ section {
   font-size: 22px;
   line-height: 0;
   margin-right: 8px;
-  color: var(--color-primary);
+color: #108279;
+
 }
 
 /*--------------------------------------------------------------
@@ -1344,7 +1358,8 @@ section {
 .onfocus .content ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: var(--color-primary);
+color: #108279;
+
 }
 
 .onfocus .content p:last-child {
@@ -1496,7 +1511,8 @@ section {
 }
 
 .features .nav-link:hover {
-  color: var(--color-primary);
+color: #108279;
+
 }
 
 .features .nav-link.active {
@@ -1539,7 +1555,8 @@ section {
 .features .tab-pane ul i {
   font-size: 24px;
   margin-right: 4px;
-  color: var(--color-primary);
+color: #108279;
+
 }
 
 .features .tab-pane p:last-child {
@@ -1614,7 +1631,8 @@ section {
 }
 
 .services .service-item:hover .details h3 {
-  color: var(--color-primary);
+color: #108279;
+
 }
 
 .services .service-item:hover .details .icon {
@@ -1623,7 +1641,8 @@ section {
 }
 
 .services .service-item:hover .details .icon i {
-  color: var(--color-primary);
+color: #108279;
+
 }
 
 .services .service-item:hover .img img {
@@ -1806,7 +1825,8 @@ section {
 }
 
 .pricing ul i {
-  color: var(--color-primary);
+color: #108279;
+
   font-size: 36px;
   padding-right: 3px;
   line-height: 0;
@@ -1830,7 +1850,8 @@ section {
   display: inline-block;
   padding: 12px 40px;
   border-radius: 6px;
-  color: var(--color-primary);
+color: #108279;
+
   transition: none;
   font-size: 16px;
   font-weight: 700;
@@ -1912,7 +1933,8 @@ section {
 }
 
 .faq .accordion-button:not(.collapsed) {
-  color: var(--color-primary);
+color: #108279;
+
   border-bottom: 0;
   box-shadow: none;
 }
@@ -1922,14 +1944,16 @@ section {
   top: 14px;
   left: 25px;
   font-size: 20px;
-  color: var(--color-primary);
+color: #108279;
+
 }
 
 .faq .accordion-button:after {
   position: absolute;
   right: 15px;
   top: 15px;
-  color: var(--color-primary);
+color: #108279;
+
 }
 
 .faq .accordion-body {
@@ -1964,7 +1988,8 @@ section {
 
 .portfolio .portfolio-flters li:hover,
 .portfolio .portfolio-flters li.filter-active {
-  color: var(--color-primary);
+color: #108279;
+
 }
 
 .portfolio .portfolio-flters li:first-child {
@@ -2167,7 +2192,8 @@ section {
 .recent-blog-posts .post-box .meta .post-date {
   font-size: 15px;
   font-weight: 400;
-  color: var(--color-primary);
+color: #108279;
+
 }
 
 .recent-blog-posts .post-box .meta .post-author {
@@ -2206,7 +2232,8 @@ section {
 }
 
 .recent-blog-posts .post-box:hover .post-title {
-  color: var(--color-primary);
+color: #108279;
+
 }
 
 .recent-blog-posts .post-box:hover .post-img img {
@@ -2251,7 +2278,8 @@ section {
 
 .contact .info-item i {
   font-size: 24px;
-  color: var(--color-primary);
+color: #108279;
+
   transition: all 0.3s ease-in-out;
   margin-right: 20px;
 }
@@ -2469,7 +2497,8 @@ section {
 }
 
 .blog .posts-list .title a:hover {
-  color: var(--color-primary);
+color: #108279;
+
 }
 
 .blog .posts-list .meta-top {
@@ -2631,7 +2660,8 @@ section {
 }
 
 .blog .blog-details .meta-bottom a:hover {
-  color: var(--color-primary);
+color: #108279;
+
 }
 
 .blog .blog-details .meta-bottom .cats {
@@ -2815,7 +2845,8 @@ section {
 }
 
 .blog .sidebar .recent-posts h4 a:hover {
-  color: var(--color-primary);
+color: #108279;
+
 }
 
 .blog .sidebar .recent-posts time {
@@ -2896,7 +2927,8 @@ section {
 }
 
 .blog .comments .comment h5 a:hover {
-  color: var(--color-primary);
+color: #108279;
+
 }
 
 .blog .comments .comment h5 .reply {
@@ -3036,7 +3068,8 @@ section {
 }
 
 .footer .footer-content .footer-info h3 span {
-  color: var(--color-primary);
+color: #108279;
+
 }
 
 .footer .footer-content .footer-info p {
