@@ -1149,6 +1149,8 @@ color: #108279;
   font-weight: 300;
   font-size: 32px;
   margin-bottom: 20px;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 @media (max-width: 768px) {
