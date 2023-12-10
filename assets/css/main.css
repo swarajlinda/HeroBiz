@@ -1147,7 +1147,7 @@ color: #108279;
   color: var(--color-secondary);
   font-family: var(--font-secondary);
   font-weight: 300;
-  font-size: 32px;
+  font-size: 22px;
   margin-bottom: 20px;
   text-align: justify;
   text-justify: inter-word;
@@ -1506,7 +1506,7 @@ color: #108279;
 }
 
 .features .nav-link h4 {
-  font-size: 20px;
+  font-size: 15px;
   font-weight: 600;
   margin: 10px 0 0 0;
   color: var(--color-secondary);
