@@ -1144,6 +1144,7 @@ color: #108279;
 }
 
 .about h3 {
+  
   color: var(--color-secondary);
   font-family: var(--font-secondary);
   font-weight: 300;
@@ -1155,9 +1156,13 @@ color: #108279;
 
 @media (max-width: 768px) {
   .about h3 {
-    font-size: 28px;
+    font-size: 20px;
+    letter-spacing: normal;
+    word-spacing: -1px;
   }
 }
+ 
+
 
 .about .nav-pills {
   border-bottom: 1px solid rgba(var(--color-secondary-rgb), 0.2);
