@@ -1,6 +1,6 @@
 tirkeyconsultancy provides expert advice and solutions in business strategy, marketing, and technology.
 Getting Started:
-Access our website at https://tirkeyconsultancy.com/. Compatible with modern web browsers.
+Access our website at https://tirkeyconsultancy.in/. Compatible with modern web browsers.
 Features:
 Comprehensive business analysis
 Customized marketing strategies
